@@ -1,1 +1,61 @@
 # PBEmu
+Emulator de pointblank Versão 42 em SqlServer
+# Versão 1.0.0.0 
+* Novos Comandos;
+* Novas Portas;
+* Antiflood Aprimorado;
+* Painel usuario Aprimorado;
+* Painel vip Aprimorado;
+* Painel Admin Aprimorado;
+* Sql Server Connection;;
+* Nova Porta UDP;
+* Nova Interface APP;
+* Novo Mapa adicionado;
+* Fix Tempo das Armas;
+* Fix Mensagens;
+* Fix Clã System;
+* Fix Crash GameServer;
+* BattleSystem Refeito;
+* Sistema de bonus Refeito;
+* Colunas SQL Refeitas;
+* Fix Bug Loja;
+* Fix Bug Clã battle;
+* Novos Comandos GM;
+* UDP Battle Fix;
+* Expiração das armas UNIDADE;
+* Evento Logue e ganhe;
+* Clã Logo;
+* AntiBot Aprimorado;
+* Mission4 Error Fix;
+* Armas bugadas do shop Removidas;
+* Vip System Expirando;
+* Zombie Mode Fix; 
+* ProjectName Editavel;
+* HitMarker [BETA];
+* VipSystem Editavel; 
+* Bot Exp Editavel;
+* DailyRecord;
+* Fix Crash Battle;
+* AutoBan[not finished];
+* Tutorial Mission;
+* Novo Log [EVENT]; 
+* Fix PlayTime;
+* LoginEvent Message;
+* ChatLogs;
+* LogSystem Refeito;
+* BalanceTeam Refeito;
+* ChatLog Modifcado;
+* Novo Comando [.CLOSE];
+* Sistema de licença Refeito;
+
+# Versão 1.0.0.1 
+* NameColorSelect VIP1-VIP6;
+* NameColorSelect GM;
+* Arma Para VIP2-VIP6;
+* Modo Dino Funcionando;
+* Modo Defense Funcionando;
+* Maps Convertido para XML;
+* Arquivos .ini organizados;
+* Novos dinos funcionando;
+* LauncherKey Compativel com qualquer Launcher;
+* GameSystem Crash Fixado;

@@ -1,0 +1,249 @@
+{
+    "basic": [
+      {
+        "id": "0",
+        "onNextLevel": "24000",
+        "onAllExp": "0"
+      },
+      {
+        "id": "1",
+        "onNextLevel": "40000",
+        "onAllExp": "24000"
+      },
+      {
+        "id": "2",
+        "onNextLevel": "48000",
+        "onAllExp": "64000"
+      },
+      {
+        "id": "3",
+        "onNextLevel": "56000",
+        "onAllExp": "112000"
+      },
+      {
+        "id": "4",
+        "onNextLevel": "72000",
+        "onAllExp": "168000"
+      },
+      {
+        "id": "5",
+        "onNextLevel": "80000",
+        "onAllExp": "240000"
+      },
+      {
+        "id": "6",
+        "onNextLevel": "120000",
+        "onAllExp": "320000"
+      },
+      {
+        "id": "7",
+        "onNextLevel": "160000",
+        "onAllExp": "440000"
+      },
+      {
+        "id": "8",
+        "onNextLevel": "120000",
+        "onAllExp": "600000"
+      },
+      {
+        "id": "9",
+        "onNextLevel": "200000",
+        "onAllExp": "720000"
+      },
+      {
+        "id": "10",
+        "onNextLevel": "240000",
+        "onAllExp": "920000"
+      },
+      {
+        "id": "11",
+        "onNextLevel": "280000",
+        "onAllExp": "1160000"
+      },
+      {
+        "id": "12",
+        "onNextLevel": "320000",
+        "onAllExp": "1440000"
+      },
+      {
+        "id": "13",
+        "onNextLevel": "360000",
+        "onAllExp": "1760000"
+      },
+      {
+        "id": "14",
+        "onNextLevel": "360000",
+        "onAllExp": "2120000"
+      },
+      {
+        "id": "15",
+        "onNextLevel": "400000",
+        "onAllExp": "2480000"
+      },
+      {
+        "id": "16",
+        "onNextLevel": "480000",
+        "onAllExp": "2880000"
+      },
+      {
+        "id": "17",
+        "onNextLevel": "560000",
+        "onAllExp": "3360000"
+      },
+      {
+        "id": "18",
+        "onNextLevel": "640000",
+        "onAllExp": "3920000"
+      },
+      {
+        "id": "19",
+        "onNextLevel": "720000",
+        "onAllExp": "4560000"
+      },
+      {
+        "id": "20",
+        "onNextLevel": "560000",
+        "onAllExp": "5280000"
+      },
+      {
+        "id": "21",
+        "onNextLevel": "640000",
+        "onAllExp": "5840000"
+      },
+      {
+        "id": "22",
+        "onNextLevel": "720000",
+        "onAllExp": "6480000"
+      },
+      {
+        "id": "23",
+        "onNextLevel": "800000",
+        "onAllExp": "7200000"
+      },
+      {
+        "id": "24",
+        "onNextLevel": "880000",
+        "onAllExp": "8000000"
+      },
+      {
+        "id": "25",
+        "onNextLevel": "960000",
+        "onAllExp": "8880000"
+      },
+      {
+        "id": "26",
+        "onNextLevel": "1870000",
+        "onAllExp": "9840000"
+      },
+      {
+        "id": "27",
+        "onNextLevel": "1120000",
+        "onAllExp": "11710000"
+      },
+      {
+        "id": "28",
+        "onNextLevel": "1200000",
+        "onAllExp": "12830000"
+      },
+      {
+        "id": "29",
+        "onNextLevel": "1280000",
+        "onAllExp": "14030000"
+      },
+      {
+        "id": "30",
+        "onNextLevel": "1600000",
+        "onAllExp": "15310000"
+      },
+      {
+        "id": "31",
+        "onNextLevel": "1620000",
+        "onAllExp": "16910000"
+      },
+      {
+        "id": "32",
+        "onNextLevel": "1440000",
+        "onAllExp": "18530000"
+      },
+      {
+        "id": "33",
+        "onNextLevel": "2560000",
+        "onAllExp": "19970000"
+      },
+      {
+        "id": "34",
+        "onNextLevel": "2880000",
+        "onAllExp": "22530000"
+      },
+      {
+        "id": "35",
+        "onNextLevel": "3200000",
+        "onAllExp": "25410000"
+      },
+      {
+        "id": "36",
+        "onNextLevel": "3520000",
+        "onAllExp": "28610000"
+      },
+      {
+        "id": "37",
+        "onNextLevel": "3840000",
+        "onAllExp": "32130000"
+      },
+      {
+        "id": "38",
+        "onNextLevel": "4160000",
+        "onAllExp": "35970000"
+      },
+      {
+        "id": "39",
+        "onNextLevel": "4480000",
+        "onAllExp": "40130000"
+      },
+      {
+        "id": "40",
+        "onNextLevel": "4800000",
+        "onAllExp": "44610000"
+      },
+      {
+        "id": "41",
+        "onNextLevel": "5120000",
+        "onAllExp": "49410000"
+      },
+      {
+        "id": "42",
+        "onNextLevel": "5440000",
+        "onAllExp": "54530000"
+      },
+      {
+        "id": "43",
+        "onNextLevel": "5760000",
+        "onAllExp": "59970000"
+      },
+      {
+        "id": "44",
+        "onNextLevel": "6080000",
+        "onAllExp": "65730000"
+      },
+      {
+        "id": "45",
+        "onNextLevel": "6800000",
+        "onAllExp": "71810000"
+      },
+      {
+        "id": "46",
+        "onNextLevel": "7200000",
+        "onAllExp": "78610000"
+      },
+      {
+        "id": "47",
+        "onNextLevel": "7600000",
+        "onAllExp": "85810000"
+      },
+      {
+        "id": "48",
+        "onNextLevel": "9200000",
+        "onAllExp": "93410000"
+      }
+    ]
+}

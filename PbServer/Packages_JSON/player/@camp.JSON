@@ -1,0 +1,982 @@
+{
+    "classic": [ {
+      "name": " beach",
+      "tournament": "camp"
+    },{
+      "name": " PBIWC2017",
+      "tournament": "camp"
+    },{
+      "name": "[R]",
+      "tournament": "camp"
+    },{
+      "name": "1001001286",
+      "tournament": "camp"
+    },{
+      "name": "1001002287",
+      "tournament": "camp"
+    },{
+      "name": "20% Defense Up",
+      "tournament": "camp"
+    },{
+      "name": "Acid Paul Infectado",
+      "tournament": "camp"
+    },{
+      "name": "ACID POOL NINJA",
+      "tournament": "camp"
+    },{
+      "name": "AK-12",
+      "tournament": "camp"
+    },{
+      "name": "AN-94",
+      "tournament": "camp"
+    },{
+      "name": "Anel de Anjo",
+      "tournament": "camp"
+    },{
+      "name": "APC9",
+      "tournament": "camp"
+    },{
+      "name": "APC9 MILKWAY",
+      "tournament": "camp"
+    },{
+      "name": "as-50",
+      "tournament": "camp"
+    },{
+      "name": "AS 50 G.",
+      "tournament": "camp"
+    },{
+      "name": "AUG A3 E-Sports",
+      "tournament": "camp"
+    },{
+      "name": "AUG A3 ID 1stAnni",
+      "tournament": "camp"
+    },{
+      "name": "AUG A3 ZEPETTO",
+      "tournament": "camp"
+    },{
+      "name": "aug hbar pandora",
+      "tournament": "camp"
+    },{
+      "name": "Badminton Racket",
+      "tournament": "camp"
+    },{
+      "name": "Ballistic",
+      "tournament": "camp"
+    },{
+      "name": "Bamboo",
+      "tournament": "camp"
+    },{
+      "name": "Barret M82A1",
+      "tournament": "camp"
+    },{
+      "name": "barret m82a1 d",
+      "tournament": "camp"
+    },{
+      "name": "BARRET NUSANTARA",
+      "tournament": "camp"
+    },{
+      "name": "BARRET PREMIUM",
+      "tournament": "camp"
+    },{
+      "name": "bella onvasion",
+      "tournament": "camp"
+    },{
+      "name": "bella ww2",
+      "tournament": "camp"
+    },{
+      "name": "Bella_PinkChoco",
+      "tournament": "camp"
+    },{
+      "name": "Beret ANIVERPB7",
+      "tournament": "camp"
+    },{
+      "name": "BERET DESERTHOUND",
+      "tournament": "camp"
+    },{
+      "name": "Beret FireDragon",
+      "tournament": "camp"
+    },{
+      "name": "beret green",
+      "tournament": "camp"
+    },{
+      "name": "Beret Military",
+      "tournament": "camp"
+    },{
+      "name": "beyond",
+      "tournament": "camp"
+    },{
+      "name": "Beyond",
+      "tournament": "camp"
+    },{
+      "name": "Bizon",
+      "tournament": "camp"
+    },{
+      "name": "Boina Fire",
+      "tournament": "camp"
+    },{
+      "name": "boina pbgc 2017",
+      "tournament": "camp"
+    },{
+      "name": "BOW",
+      "tournament": "camp"
+    },{
+      "name": "BOW BLACK",
+      "tournament": "camp"
+    },{
+      "name": "BOW GOLD",
+      "tournament": "camp"
+    },{
+      "name": "Breaker",
+      "tournament": "camp"
+    },{
+      "name": "C4 Speed Kit",
+      "tournament": "camp"
+    },{
+      "name": "C4 Speed Kit",
+      "tournament": "camp"
+    },{
+      "name": "C4 Speed Kit[Pirate Set]",
+      "tournament": "camp"
+    },{
+      "name": "C4 Speed Up",
+      "tournament": "camp"
+    },{
+      "name": "C4 Speed Up [E]",
+      "tournament": "camp"
+    },{
+      "name": "cane",
+      "tournament": "camp"
+    },{
+      "name": "Cane Gun",
+      "tournament": "camp"
+    },{
+      "name": "Cane Shotgun",
+      "tournament": "camp"
+    },{
+      "name": "Cerberus",
+      "tournament": "camp"
+    },{
+      "name": "CERBERUS MILKWAY",
+      "tournament": "camp"
+    },{
+      "name": "CERBERUS XMAS2017",
+      "tournament": "camp"
+    },{
+      "name": "ChapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©u",
+      "tournament": "camp"
+    },{
+      "name": "ChapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©u Cangaceiro",
+      "tournament": "camp"
+    },{
+      "name": "ChapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©u da IndependÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âªncia",
+      "tournament": "camp"
+    },{
+      "name": "ChapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©u Kopassus",
+      "tournament": "camp"
+    },{
+      "name": "Choco",
+      "tournament": "camp"
+    },{
+      "name": "chou invasion",
+      "tournament": "camp"
+    },{
+      "name": "chou pocong",
+      "tournament": "camp"
+    },{
+      "name": "chou ww2",
+      "tournament": "camp"
+    },{
+      "name": "Chou_MintChoco",
+      "tournament": "camp"
+    },{
+      "name": "Claymore",
+      "tournament": "camp"
+    },{
+      "name": "Compound",
+      "tournament": "camp"
+    },{
+      "name": "Couple",
+      "tournament": "camp"
+    },{
+      "name": "Couple Breaker",
+      "tournament": "camp"
+    },{
+      "name": "CrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nio de Dinossauro",
+      "tournament": "camp"
+    },{
+      "name": "CrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢nio Mask",
+      "tournament": "camp"
+    },{
+      "name": "Cross Knife Beret",
+      "tournament": "camp"
+    },{
+      "name": "CS GAS",
+      "tournament": "camp"
+    },{
+      "name": "d-fox hitman",
+      "tournament": "camp"
+    },{
+      "name": "Death Scythe",
+      "tournament": "camp"
+    },{
+      "name": "Death Scythe Demonic",
+      "tournament": "camp"
+    },{
+      "name": "Decoy Bomb",
+      "tournament": "camp"
+    },{
+      "name": "Demonic",
+      "tournament": "camp"
+    },{
+      "name": "dfox plus",
+      "tournament": "camp"
+    },{
+      "name": "Dolphin",
+      "tournament": "camp"
+    },{
+      "name": "dfox plus",
+      "tournament": "camp"
+    },{
+      "name": "Elite",
+      "tournament": "camp"
+    },{
+      "name": "Espada ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬rabe",
+      "tournament": "camp"
+    },{
+      "name": "F.C",
+      "tournament": "camp"
+    },{
+      "name": "FAMAS",
+      "tournament": "camp"
+    },{
+      "name": "FAMAS G2 Commando E-Sports",
+      "tournament": "camp"
+    },{
+      "name": "Famas G2",
+      "tournament": "camp"
+    },{
+      "name": "FAMAS G2 M203'",
+      "tournament": "camp"
+    },{
+      "name": "Famas G2 M203 E-Sport2",
+      "tournament": "camp"
+    },{
+      "name": "Famas G2 Newborn2016",
+      "tournament": "camp"
+    },{
+      "name": "FAMAS G2 Sniper",
+      "tournament": "camp"
+    },{
+      "name": "FBI",
+      "tournament": "camp"
+    },{
+      "name": "Field Shovel",
+      "tournament": "camp"
+    },{
+      "name": "Flash Bang Plus",
+      "tournament": "camp"
+    },{
+      "name": "Gatotkaca Gold Mask",
+      "tournament": "camp"
+    },{
+      "name": "Gatotkaca Mask",
+      "tournament": "camp"
+    },{
+      "name": "General Hide",
+      "tournament": "camp"
+    },{
+      "name": "General Viper",
+      "tournament": "camp"
+    },{
+      "name": "Gorro do Papai Noel",
+      "tournament": "camp"
+    },{
+      "name": "Granada de aÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âºcar",
+      "tournament": "camp"
+    },{
+      "name": "Groza",
+      "tournament": "camp"
+    },{
+      "name": "Hairdryer",
+      "tournament": "camp"
+    },{
+      "name": "Halloween 2016",
+      "tournament": "camp"
+    },{
+      "name": "Halloween 2017",
+      "tournament": "camp"
+    },{
+      "name": "Hammer",
+      "tournament": "camp"
+    },{
+      "name": "hat",
+      "tournament": "camp"
+    },{
+      "name": "HBAR",
+      "tournament": "camp"
+    },{
+      "name": "HEART VALENTINE",
+      "tournament": "camp"
+    },{
+      "name": "Hide Infectada",
+      "tournament": "camp"
+    },{
+      "name": "hide jumpsuit",
+      "tournament": "camp"
+    },{
+      "name": "Hide Kopassus [R]",
+      "tournament": "camp"
+    },{
+      "name": "HIDE nbgirl",
+      "tournament": "camp"
+    },{
+      "name": "hide plus",
+      "tournament": "camp"
+    },{
+      "name": "HIDE VACANCE 17",
+      "tournament": "camp"
+    },{
+      "name": "Hide Xmas",
+      "tournament": "camp"
+    },{
+      "name": "HK-417",
+      "tournament": "camp"
+    },{
+      "name": "HK69",
+      "tournament": "camp"
+    },{
+      "name": "IC",
+      "tournament": "camp"
+    },{
+      "name": "Ice",
+      "tournament": "camp"
+    },{
+      "name": "Ice Fork",
+      "tournament": "camp"
+    },{
+      "name": "K2C",
+      "tournament": "camp"
+    },{
+      "name": "keen ayes says",
+      "tournament": "camp"
+    },{
+      "name": "keesayses ninja",
+      "tournament": "camp"
+    },{
+      "name": "Kin Eyes Infectada",
+      "tournament": "camp"
+    },{
+      "name": "Kopassus",
+      "tournament": "camp"
+    },{
+      "name": "kriss",
+      "tournament": "camp"
+    },{
+      "name": "kriss 2stanni",
+      "tournament": "camp"
+    },{
+      "name": "kriss 3rd anni",
+      "tournament": "camp"
+    },{
+      "name": "kriss beach",
+      "tournament": "camp"
+    },{
+      "name": "kriss green",
+      "tournament": "camp"
+    },{
+      "name": "kriss ice",
+      "tournament": "camp"
+    },{
+      "name": "kriss maze",
+      "tournament": "camp"
+    },{
+      "name": "kriss nusantara",
+      "tournament": "camp"
+    },{
+      "name": "kriss pandora",
+      "tournament": "camp"
+    },{
+      "name": "kriss pbgc 2017",
+      "tournament": "camp"
+    },{
+      "name": "kriss pbst_es",
+      "tournament": "camp"
+    },{
+      "name": "kriss pbtc2017",
+      "tournament": "camp"
+    },{
+      "name": "kriss s.v",
+      "tournament": "camp"
+    },{
+      "name": "Kriss S.V Dolphin",
+      "tournament": "camp"
+    },{
+      "name": "Kriss S.V Newborn 2015",
+      "tournament": "camp"
+    },{
+      "name": "Kriss S.V Puzzle",
+      "tournament": "camp"
+    },{
+      "name": "Kriss S.V XMAS2015",
+      "tournament": "camp"
+    },{
+      "name": "kriss sv arcade",
+      "tournament": "camp"
+    },{
+      "name": "kriss sv chicken",
+      "tournament": "camp"
+    },{
+      "name": "kriss sv comic",
+      "tournament": "camp"
+    },{
+      "name": "KRISS SV GRAFFITI",
+      "tournament": "camp"
+    },{
+      "name": "KRISS SV MILITARY",
+      "tournament": "camp"
+    },{
+      "name": "KRISS SV MILKWAY",
+      "tournament": "camp"
+    },{
+      "name": "kriss sv rebel",
+      "tournament": "camp"
+    },{
+      "name": "kriss sv surfing",
+      "tournament": "camp"
+    },{
+      "name": "KRISS SV VITTORIA",
+      "tournament": "camp"
+    },{
+      "name": "KRISS SV XMAS2017",
+      "tournament": "camp"
+    },{
+      "name": "Kriss Vector SDP Puzzle",
+      "tournament": "camp"
+    },{
+      "name": "KRISSSUPERV DIGITAL",
+      "tournament": "camp"
+    },{
+      "name": "Kunai",
+      "tournament": "camp"
+    },{
+      "name": "L86 LSW XMAS",
+      "tournament": "camp"
+    },{
+      "name": "leopard hitman",
+      "tournament": "camp"
+    },{
+      "name": "Leopard Infectado",
+      "tournament": "camp"
+    },{
+      "name": "leopard plus",
+      "tournament": "camp"
+    },{
+      "name": "M-14",
+      "tournament": "camp"
+    },{
+      "name": "M-14 Mine",
+      "tournament": "camp"
+    },{
+      "name": "M4 SR-16",
+      "tournament": "camp"
+    },{
+      "name": "mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡scara",
+      "tournament": "camp"
+    },{
+      "name": "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡scara",
+      "tournament": "camp"
+    },{
+      "name": "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡scara",
+      "tournament": "camp"
+    },{
+      "name": "MÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡scara E-Sports2",
+      "tournament": "camp"
+    },{
+      "name": "mascara",
+      "tournament": "camp"
+    },{
+      "name": "mask",
+      "tournament": "camp"
+    },{
+      "name": "Mask",
+      "tournament": "camp"
+    },{
+      "name": "MASK",
+      "tournament": "camp"
+    },{
+      "name": "mask chicken",
+      "tournament": "camp"
+    },{
+      "name": "Mask Chiken",
+      "tournament": "camp"
+    },{
+      "name": "mask cnpb t5",
+      "tournament": "camp"
+    },{
+      "name": "MAX HP Up 10%",
+      "tournament": "camp"
+    },{
+      "name": "MAX HP Up 10%",
+      "tournament": "camp"
+    },{
+      "name": "Medical Kit",
+      "tournament": "camp"
+    },{
+      "name": "Midnight2",
+      "tournament": "camp"
+    },{
+      "name": "Midnight2",
+      "tournament": "camp"
+    },{
+      "name": "Mk 46 Ext.",
+      "tournament": "camp"
+    },{
+      "name": "Mk 46 Silver",
+      "tournament": "camp"
+    },{
+      "name": "MNB4",
+      "tournament": "camp"
+    },{
+      "name": "MP9",
+      "tournament": "camp"
+    },{
+      "name": "MP9 G",
+      "tournament": "camp"
+    },{
+      "name": "MSBS",
+      "tournament": "camp"
+    },{
+      "name": "msbs 3rd anni",
+      "tournament": "camp"
+    },{
+      "name": "Msbs Gold",
+      "tournament": "camp"
+    },{
+      "name": "MSBS Gold",
+      "tournament": "camp"
+    },{
+      "name": "mx4 pbst_es",
+      "tournament": "camp"
+    },{
+      "name": "nevasca",
+      "tournament": "camp"
+    },{
+      "name": "Nevasca",
+      "tournament": "camp"
+    },{
+      "name": "NEVASCA",
+      "tournament": "camp"
+    },{
+      "name": "Normal Headgear",
+      "tournament": "camp"
+    },{
+      "name": "Nunchaku",
+      "tournament": "camp"
+    },{
+      "name": "oa-93",
+      "tournament": "camp"
+    },{
+      "name": "OA-93",
+      "tournament": "camp"
+    },{
+      "name": "OA-93 XMAS2015",
+      "tournament": "camp"
+    },{
+      "name": "oa 2stanni",
+      "tournament": "camp"
+    },{
+      "name": "oa 93",
+      "tournament": "camp"
+    },{
+      "name": "OA 93",
+      "tournament": "camp"
+    },{
+      "name": "oa 93 3rd anni",
+      "tournament": "camp"
+    },{
+      "name": "oa 93 arcade",
+      "tournament": "camp"
+    },{
+      "name": "OA 93 GRAFFITI",
+      "tournament": "camp"
+    },{
+      "name": "oa 93 nusantara",
+      "tournament": "camp"
+    },{
+      "name": "oa 93 rebel",
+      "tournament": "camp"
+    },{
+      "name": "oa 93 surfing",
+      "tournament": "camp"
+    },{
+      "name": "OA 93 XMAS2017",
+      "tournament": "camp"
+    },{
+      "name": "OA HOLI",
+      "tournament": "camp"
+    },{
+      "name": "oa latin7",
+      "tournament": "camp"
+    },{
+      "name": "oa maze",
+      "tournament": "camp"
+    },{
+      "name": "oa military",
+      "tournament": "camp"
+    },{
+      "name": "OA MILKWAY",
+      "tournament": "camp"
+    },{
+      "name": "oa pandora",
+      "tournament": "camp"
+    },{
+      "name": "oa pbgc 2017",
+      "tournament": "camp"
+    },{
+      "name": "oa pbst_es",
+      "tournament": "camp"
+    },{
+      "name": "OA VITTORIA",
+      "tournament": "camp"
+    },{
+      "name": "OA93",
+      "tournament": "camp"
+    },{
+      "name": "PalhaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§o Assassino Mask",
+      "tournament": "camp"
+    },{
+      "name": "Panda Mask",
+      "tournament": "camp"
+    },{
+      "name": "pandora",
+      "tournament": "camp"
+    },{
+      "name": "Pandora",
+      "tournament": "camp"
+    },{
+      "name": "PBIC",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2012",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2013",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2014",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2015",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2016",
+      "tournament": "camp"
+    },{
+      "name": "PBIC2017",
+      "tournament": "camp"
+    },{
+      "name": "pbst_es",
+      "tournament": "camp"
+    },{
+      "name": "PBTN",
+      "tournament": "camp"
+    },{
+      "name": "Plus",
+      "tournament": "camp"
+    },{
+      "name": "PP19",
+      "tournament": "camp"
+    },{
+      "name": "RAVEN",
+      "tournament": "camp"
+    },{
+      "name": "rebel female p1000",
+      "tournament": "camp"
+    },{
+      "name": "RED BULLS NINJA",
+      "tournament": "camp"
+    },{
+      "name": "Reinforced",
+      "tournament": "camp"
+    },{
+      "name": "Reinforced Combo Hide (+30% Gold) [R]",
+      "tournament": "camp"
+    },{
+      "name": "Reinforced Combo Viper Red (+30% Gold) [R]",
+      "tournament": "camp"
+    },{
+      "name": "Reinforced D-Fox",
+      "tournament": "camp"
+    },{
+      "name": "Reinforced Headgear",
+      "tournament": "camp"
+    },{
+      "name": "Remington",
+      "tournament": "camp"
+    },{
+      "name": "RPD",
+      "tournament": "camp"
+    },{
+      "name": "SCAR-L",
+      "tournament": "camp"
+    },{
+      "name": "Scorpion",
+      "tournament": "camp"
+    },{
+      "name": "SCORPION ANIVER PB7",
+      "tournament": "camp"
+    },{
+      "name": "scorpion arcade",
+      "tournament": "camp"
+    },{
+      "name": "scorpion latin7",
+      "tournament": "camp"
+    },{
+      "name": "SG",
+      "tournament": "camp"
+    },{
+      "name": "SG-550",
+      "tournament": "camp"
+    },{
+      "name": "Sheep",
+      "tournament": "camp"
+    },{
+      "name": "sig sauer silver",
+      "tournament": "camp"
+    },{
+      "name": "Silence",
+      "tournament": "camp"
+    },{
+      "name": "Silence",
+      "tournament": "camp"
+    },{
+      "name": "Snowman Grenade",
+      "tournament": "camp"
+    },{
+      "name": "Soccer",
+      "tournament": "camp"
+    },{
+      "name": "Soccer Grenade",
+      "tournament": "camp"
+    },{
+      "name": "SOPMOD",
+      "tournament": "camp"
+    },{
+      "name": "SPAS",
+      "tournament": "camp"
+    },{
+      "name": "SPAS-15",
+      "tournament": "camp"
+    },{
+      "name": "Super Headgear",
+      "tournament": "camp"
+    },{
+      "name": "swat female p1000",
+      "tournament": "camp"
+    },{
+      "name": "Sword",
+      "tournament": "camp"
+    },{
+      "name": "TAR-21",
+      "tournament": "camp"
+    },{
+      "name": "tarantula ninja",
+      "tournament": "camp"
+    },{
+      "name": "tarantula ninja",
+      "tournament": "camp"
+    },{
+      "name": "Target Headgear",
+      "tournament": "camp"
+    },{
+      "name": "TEC-9",
+      "tournament": "camp"
+    },{
+      "name": "Tec-9G",
+      "tournament": "camp"
+    },{
+      "name": "tec 9 pbst_es",
+      "tournament": "camp"
+    },{
+      "name": "Ultimax",
+      "tournament": "camp"
+    },{
+      "name": "UTS",
+      "tournament": "camp"
+    },{
+      "name": "UTS-15",
+      "tournament": "camp"
+    },{
+      "name": "uts 3rd anni",
+      "tournament": "camp"
+    },{
+      "name": "Uzi",
+      "tournament": "camp"
+    },{
+      "name": "VECTOR MECHHERO",
+      "tournament": "camp"
+    },{
+      "name": "VECTOR MECHHERO",
+      "tournament": "camp"
+    },{
+      "name": "viper crocsuit",
+      "tournament": "camp"
+    },{
+      "name": "Viper Kopassus [R]",
+      "tournament": "camp"
+    },{
+      "name": "viper nbgirl",
+      "tournament": "camp"
+    },{
+      "name": "viper plus",
+      "tournament": "camp"
+    },{
+      "name": "Viper Red Demolition",
+      "tournament": "camp"
+    },{
+      "name": "VIPER RED VACANCE 17",
+      "tournament": "camp"
+    },{
+      "name": "Viper Xmas",
+      "tournament": "camp"
+    },{
+      "name": "VITTORIA",
+      "tournament": "camp"
+    },{
+      "name": "VSK94",
+      "tournament": "camp"
+    },{
+      "name": "VSK94 Gold",
+      "tournament": "camp"
+    },{
+      "name": "Vz",
+      "tournament": "camp"
+    },{
+      "name": "WaterBomb",
+      "tournament": "camp"
+    },{
+      "name": "WaterGun",
+      "tournament": "camp"
+    },{
+      "name": "WP",
+      "tournament": "camp"
+    },{
+      "name": "WP Smoke",
+      "tournament": "camp"
+    },{
+      "name": "WP Smoke",
+      "tournament": "camp"
+    },{
+      "name": "WP SMOKE PLUS",
+      "tournament": "camp"
+    },{
+      "name": "X-MAS",
+      "tournament": "camp"
+    },{
+      "name": "XM8",
+      "tournament": "camp"
+    },{
+      "name": "xmas",
+      "tournament": "camp"
+    },{
+      "name": "XMAS 2015",
+      "tournament": "camp"
+    },{
+      "name": "xmas 2017",
+      "tournament": "camp"
+    },{
+      "name": "XMAS2015",
+      "tournament": "camp"
+    },{
+      "name": "XMAS2017",
+      "tournament": "camp"
+    },{
+      "name": "XMASS",
+      "tournament": "camp"
+    },{
+      "name": "Yellow Star Beret",
+      "tournament": "camp"
+    },{
+      "name": "ZEPETTO",
+      "tournament": "camp"
+    },{
+      "name": "Zombie Slayer",
+      "tournament": "camp"
+    },{
+      "name": "zombie slayer 2stanni",
+      "tournament": "camp"
+    },{
+      "name": "zombie slayer ice",
+      "tournament": "camp"
+    },{
+      "name": "Zombie Slayer Ice",
+      "tournament": "camp"
+    },{
+      "name": "zombie slayer latin7",
+      "tournament": "camp"
+    },{
+      "name": "zombie slayer MAZE",
+      "tournament": "camp"
+    },{
+      "name": "M1887",
+      "tournament": "camp"
+    },{
+      "name": "M1887 MECH",
+      "tournament": "camp"
+    },{
+      "name": "M1887 Gold",
+      "tournament": "camp"
+    },{
+      "name": "M1887 SL",
+      "tournament": "camp"
+    },{
+      "name": "M1887 W GRS",
+      "tournament": "camp"
+    },{
+      "name": "M1887 Bloody",
+      "tournament": "camp"
+    },{
+      "name": "M1887 W TH 1st Anniversary",
+      "tournament": "camp"
+    },{
+      "name": "M1887 R",
+      "tournament": "camp"
+    },{
+      "name": "M1887 PBNC5",
+      "tournament": "camp"
+    },{
+      "name": "M1887 Brazuca",
+      "tournament": "camp"
+    },{
+      "name": "M1887 PBIC2014",
+      "tournament": "camp"
+    },{
+      "name": "M1887 Lion-Heart",
+      "tournament": "camp"
+    },{
+      "name": "M1887 GSL2015",
+      "tournament": "camp"
+    },{
+      "name": "M1887 Summer",
+      "tournament": "camp"
+    },{
+      "name": "M1887 PBNC2015",
+      "tournament": "camp"
+    },{
+      "name": "M1887 PBTC2015",
+      "tournament": "camp"
+    },{
+      "name": "KRISSSUPERV",
+      "tournament": "camp"
+    },{
+      "name": "KRISSSUPERV MECH",
+      "tournament": "camp"
+    },{
+      "name": "SC-2010",
+      "tournament": "camp"
+    },{
+      "name": "Pindad SS2",
+      "tournament": "camp"
+    }
+	]
+}

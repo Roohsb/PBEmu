@@ -1,0 +1,102 @@
+{
+    "basic": [
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "K-5",
+        "ItemID": "601002003",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "M-7",
+        "ItemID": "702001001",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "K-400",
+        "ItemID": "803007001",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Smoke",
+        "ItemID": "904007002",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Red Bulls",
+        "ItemID": "1001001005",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Acid Pol",
+        "ItemID": "1001002006",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Raptor",
+        "ItemID": "1006003041",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Sting",
+        "ItemID": "1006003042",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Acid",
+        "ItemID": "1006003043",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "Capacete basico",
+        "ItemID": "1102003001",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "K-2",
+        "ItemID": "100003004",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "K-1",
+        "ItemID": "200004006",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "SG669",
+        "ItemID": "300005003",
+        "Type": "0"
+      },
+      {
+        "equip": "3",
+        "count": "0",
+        "name": "870MCS",
+        "ItemID": "400006001",
+        "Type": "0"
+      }
+    ]
+}

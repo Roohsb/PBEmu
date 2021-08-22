@@ -1,0 +1,542 @@
+﻿{
+    "Chara": [
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "11"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "12"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "13"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "14"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "15"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "16"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "17"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "18"
+      },
+      {
+        "Life": "110",
+        "Type": "1",
+        "Id": "19"
+      },
+      {
+        "Life": "110",
+        "Type": "1",
+        "Id": "20"
+      },
+      {
+        "Life": "110",
+        "Type": "1",
+        "Id": "21"
+      },
+      {
+        "Life": "110",
+        "Type": "1",
+        "Id": "22"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "35"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "36"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "51"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "52"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "53"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "54"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "55"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "56"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "67"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "68"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "69"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "84"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "87"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "95"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "96"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "109"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "127"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "137"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "144"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "148"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "156"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "157"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "172"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "175"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "183"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "184"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "197"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "215"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "255"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "268"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "270"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "275"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "278"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "283"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "287"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "286"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "294"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "295"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "302"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "305"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "311"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "320"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "353"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "356"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "360"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "362"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "375"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "377"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "394"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "413"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "415"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "421"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "436"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "439"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "462"
+      },
+      {
+        "Life": "120",
+        "Type": "1",
+        "Id": "465"
+      },
+      {
+        "Life": "400",
+        "Type": "6",
+        "Id": "41"
+      },
+      {
+        "Life": "350",
+        "Type": "6",
+        "Id": "42"
+      },
+      {
+        "Life": "100",
+        "Type": "6",
+        "Id": "43"
+      },
+      {
+        "Life": "500",
+        "Type": "6",
+        "Id": "30"
+      },
+      {
+        "Life": "450",
+        "Type": "6",
+        "Id": "32"
+      },
+      {
+        "Life": "440",
+        "Type": "6",
+        "Id": "44"
+      },
+      {
+        "Life": "390",
+        "Type": "6",
+        "Id": "45"
+      },
+      {
+        "Life": "110",
+        "Type": "6",
+        "Id": "46"
+      }
+    ],
+    "#text": [
+      " ;Reinforced DFox
+	",
+      " ;Reinforced Leopard
+	",
+      " ;Reinforced Viper Red
+	",
+      " ;Reinforced Hide
+	",
+      " ;Reinforced Combo DFox
+	",
+      " ;Reinforced Combo Leopard
+	",
+      " ;Reinforced Combo Viper Red
+	",
+      " ;Reinforced Combo Hide
+	",
+      " ;Reinforced Acid Pool
+	",
+      " ;Reinforced Keen Eyes
+	",
+      " ;Reinforced Red Bulls
+	",
+      " ;Reinforced Tarantula
+	",
+      " ;Reinforced Chou
+	",
+      " ;Reinforced Rica
+	",
+      " ;Hide Kopassus
+	",
+      " ;Leopard Bope
+	",
+      " ;Hide Cup
+	",
+      " ;World Tarantula
+	",
+      " ;Viper Shadow
+	",
+      " ;Hide Recon
+	",
+      " ;Hide Strike
+	",
+      " ;Viper Kopassus
+	",
+      " ;Bella_Belly
+	
+	",
+      " ;REBEL_Viper_Pirate
+	",
+      " ;REBEL_Viper_NBgirl	
+	",
+      " ;REBEL_Viper_Demolition
+	",
+      " ;REBEL_Viper_Bouncer
+	",
+      " ;Bella_FireFighter	
+	",
+      " ;Redbulls_Ninja
+	",
+      " ;DFox_Hitman
+	",
+      " ;Chou_FBI
+	",
+      " ;Chou_HallowenNurse3
+	",
+      " ;KeenEyes_Ninja
+	",
+      " ;SWAT_Female_SWATSniper	
+	",
+      " ;Hide_Navy	
+	",
+      " ;Hide_NBgirl	
+	",
+      " ;Hide_JumpSuit
+	",
+      " ;Hide_PoliceSquad
+	",
+      " ;Chou_FireFighter
+	",
+      " ;Acidpol_Ninja
+	",
+      " ;Leopard_
+	",
+      " ;REBEL_Female_CrocSuitHitman
+	",
+      " ;SWAT_Female_SAS
+	",
+      " ;Bella_WW2
+	",
+      " ;Chou_WW2	
+	",
+      " ;Tarantula_SomalianPirate
+	",
+      " ;Hide_General	
+	",
+      " ;REBEL_Viper_General
+	",
+      " ;Hide_GIGN	
+	",
+      " ;REBEL_Viper_Matilda
+	",
+      " ;REBEL_Female_P1000
+	",
+      " ;SWAT_Female_P1000
+	",
+      " ;Chou_Invasion
+	",
+      " ;Bella_Invasion
+	",
+      " ;Hide_Vacance17
+	",
+      " ;REBEL_Viper_Vacance17
+	",
+      " ;REBEL_Viper_Medic
+	",
+      " ;Hide_Medic	
+	",
+      " ;DFox_HawainGang
+	",
+      " ;Leopard_FBI
+	",
+      " ;Tarantula_Ninja
+	",
+      " ;Chou_Pocong
+	",
+      " ;Bella_HallowenNurse
+	",
+      " ;Bella_Rangda
+	",
+      " ;REBEL_Viper_Rudolph
+	",
+      " ;Hide_Rudolph
+	
+	",
+      " ;Chou_MintChoco
+	",
+      " ;Bella_PinkChoco
+	
+	",
+      " ;Raptor
+	",
+      " ;Sting
+	",
+      " ;Acid
+	",
+      " ;Tank
+	",
+      " ;Elite
+	",
+      " ;Reinforced Raptor (Mercury)
+	",
+      " ;Reinforced Sting (Mars)
+	",
+      " ;Reinforced Acid (Vulcan)
+	
+"
+    ]
+}

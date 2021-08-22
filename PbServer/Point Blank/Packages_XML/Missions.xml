@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<mission Enable="false" MissionID="1"  price="0"     /> 
+	<mission Enable="true" MissionID="5"  price="5000"  />
+	<mission Enable="true" MissionID="6"  price="5000"  />
+	<mission Enable="true" MissionID="7"  price="10000" />
+	<mission Enable="true" MissionID="8"  price="10000" />
+	<mission Enable="true" MissionID="9"  price="12000" />
+	<mission Enable="true" MissionID="10" price="12000" />
+	<mission Enable="true" MissionID="11" price="15000" />
+	<mission Enable="true" MissionID="12" price="15000" />
+</list>

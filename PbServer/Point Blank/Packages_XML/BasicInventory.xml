@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<basic Type="0" ItemID="601002003"  Name="K-5"             Count="0" equip="3"/>
+    <basic Type="0" ItemID="702001001"  Name="M-7"             Count="0" equip="3"/>
+    <basic Type="0" ItemID="803007001"  Name="K-400"           Count="0" equip="3"/>
+	<basic Type="0" ItemID="904007002"  Name="Smoke"           Count="0" equip="3"/>
+	<basic Type="0" ItemID="1001001005" Name="Red Bulls"       Count="0" equip="3"/>
+	<basic Type="0" ItemID="1001002006" Name="Acid Pol"        Count="0" equip="3"/>
+	<basic Type="0" ItemID="1006003041" Name="Raptor"          Count="0" equip="3"/>
+	<basic Type="0" ItemID="1006003042" Name="Sting"     	   Count="0" equip="3"/>
+	<basic Type="0" ItemID="1006003043" Name="Acid"            Count="0" equip="3"/>
+	<basic Type="0" ItemID="1102003001" Name="Capacete basico" Count="0" equip="3"/>
+</list>

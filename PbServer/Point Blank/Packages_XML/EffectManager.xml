@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<basic ItemID="1200007000"  Flag="1048576"   />
+    <basic ItemID="1200008000"  Flag="262144"    />
+    <basic ItemID="1200017000"  Flag="131072"    />
+	<basic ItemID="1200026000"  Flag="32768"     />
+	<basic ItemID="1200027000"  Flag="16384"     />
+	<basic ItemID="1200028000"  Flag="8192"      />
+	<basic ItemID="1200029000"  Flag="4096"      />
+	<basic ItemID="1200030000"  Flag="2048"      />
+	<basic ItemID="1200031000"  Flag="1024"      />
+	<basic ItemID="1200032000"  Flag="512"       />
+    <basic ItemID="1200033000"  Flag="65536"     />
+    <basic ItemID="1200034000"  Flag="256"       />
+    <basic ItemID="1200035000"  Flag="128"       />
+	<basic ItemID="1200036000"  Flag="32768"     />
+	<basic ItemID="1200027000"  Flag="64"        />
+	<basic ItemID="1200040000"  Flag="32"        />
+	<basic ItemID="1200044000"  Flag="4096"      />
+	<basic ItemID="1200030000"  Flag="16"        />
+	<basic ItemID="1200064000"  Flag="1024"      />
+	<basic ItemID="1200032000"  Flag="2097152"   />
+    <basic ItemID="1200065000"  Flag="1"         />
+	<basic ItemID="1200078000"  Flag="8"         />
+	<basic ItemID="1200079000"  Flag="4"         />
+	<basic ItemID="1200080000"  Flag="4194304"   />
+	<basic ItemID="1200185000"  Flag="8388608"   />
+	<basic ItemID="1200242000"  Flag="16777216"  />
+</list>

@@ -1,0 +1,126 @@
+{
+    "weapon": [
+      {
+        "number": "20",
+        "slot": "2"
+      },
+      {
+        "number": "39",
+        "slot": "2"
+      },
+      {
+        "number": "154",
+        "slot": "2"
+      },
+      {
+        "number": "152",
+        "slot": "2"
+      },
+      {
+        "number": "112",
+        "slot": "2"
+      },
+      {
+        "number": "116",
+        "slot": "2"
+      },
+      {
+        "number": "60",
+        "slot": "2"
+      },
+      {
+        "number": "74",
+        "slot": "2"
+      },
+      {
+        "number": "107",
+        "slot": "2"
+      },
+      {
+        "number": "128",
+        "slot": "2"
+      },
+      {
+        "number": "63",
+        "slot": "2"
+      },
+      {
+        "number": "81",
+        "slot": "2"
+      },
+      {
+        "number": "72",
+        "slot": "2"
+      },
+      {
+        "number": "99",
+        "slot": "2"
+      },
+      {
+        "number": "100",
+        "slot": "2"
+      },
+      {
+        "number": "163",
+        "slot": "2"
+      },
+      {
+        "number": "6",
+        "slot": "2"
+      },
+      {
+        "number": "13",
+        "slot": "2"
+      },
+      {
+        "number": "141",
+        "slot": "2"
+      },
+      {
+        "number": "121",
+        "slot": "2"
+      }
+    ],
+    "#text": [
+      " ;Ballistic Knife
+	",
+      " ;Ballistic Knife GRS
+	",
+      " ;Ballistic Knife Russian Deluxe
+	",
+      " ;Ballistic Knife Russian Normal
+	",
+      " ;Ballistic Knife SPY
+	",
+      " ;Ballistic Knife SpyDeluxe
+	",
+      " ;Chinese Cleaver
+	",
+      " ;Chinese Cleaver CNY2015
+	",
+      " ;Kunai
+	",
+      " ;Kunai Serpent
+	",
+      " ;Field Shovel
+	",
+      " ;Field Shovel Royal
+	",
+      " ;Goat Hammer
+	",
+      " ;HairDryer
+	",
+      " ;HairDryer Indonesia
+	",
+      " ;Halloween Hammer
+	",
+      " ;Mini Axe
+	",
+      " ;Mini Axe D.
+	",
+      " ;Mini Axe Axe
+	",
+      " ;Monkey Hammer
+"
+    ]
+}

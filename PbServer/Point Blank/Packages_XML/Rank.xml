@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<Rank rank_id="0"  item_id="100003193"     Name="AUG LionFlame"    		count = "86400" equip = "1" />
+    <Rank rank_id="0"  item_id="601002017"     Name="C. Phyton G D"    		count = "86400" equip = "1" />
+    <Rank rank_id="0"  item_id="702001149"     Name="Fang Blade Alien"  	count = "86400" equip = "1" />
+	<Rank rank_id="0"  item_id="803007062"     Name="K400 Alien"       		count = "86400" equip = "1" />
+	<Rank rank_id="1"  item_id="200004026"     Name="Kriss S.V G"    	    count = "86400" equip = "1" />
+	<Rank rank_id="1"  item_id="601014004" 	   Name="Dual D-Eagle G"  	    count = "86400" equip = "1" />
+	<Rank rank_id="1"  item_id="702001011"     Name="Amok Kukri D"    		count = "86400" equip = "1" />
+	<Rank rank_id="1"  item_id="803007062"     Name="K400 Alien" 		    count = "86400" equip = "1" />
+	<Rank rank_id="2"  item_id="300005087"     Name="Cheytac M200 PBIC2014" count = "86400" equip = "1" />
+	<Rank rank_id="2"  item_id="601002023"     Name="IMI Uzi 9mm"           count = "86400" equip = "1" />
+    <Rank rank_id="2"  item_id="702001066"     Name="DEATH_SCYTHE"          count = "86400" equip = "1" />
+    <Rank rank_id="2"  item_id="803007062"     Name="K400 Alien"            count = "86400" equip = "1" />
+    <Rank rank_id="3"  item_id="400006017"     Name="M1887 D"               count = "86400" equip = "1" />
+	<Rank rank_id="3"  item_id="601002022"     Name="Colt 45" 				count = "86400" equip = "1" />
+	<Rank rank_id="3"  item_id="702001012"     Name="Mine Axe D" 			count = "86400" equip = "1" />
+	<Rank rank_id="3"  item_id="803007062"     Name="K400 Alien" 			count = "86400" equip = "1" />
+	<Rank rank_id="4"  item_id="100003121"     Name="AK47 PBIC2013" 		count = "172800" equip = "1" />
+	<Rank rank_id="4"  item_id="702001147"     Name="Karambit" 				count = "86400" equip = "1" />
+	<Rank rank_id="4"  item_id="803007062"     Name="K400 Alien" 			count = "86400" equip = "1" />
+	<Rank rank_id="5"  item_id="200004075"     Name="P90 G"     			count = "172800" equip = "1" />
+    <Rank rank_id="5"  item_id="702001024"     Name="CandyCane" 		    count = "86400" equip = "1" />
+	<Rank rank_id="5"  item_id="803007062"     Name="K400 Alien" 			count = "86400" equip = "1" />
+	<Rank rank_id="6"  item_id="300005015"     Name="L11501 G" 				count = "172800" equip = "1" />
+	<Rank rank_id="6"  item_id="702001021"     Name="Keris"					count = "86400" equip = "1" />
+	<Rank rank_id="6"  item_id="803007062"     Name="K400 Alien"		    count = "86400" equip = "1" />
+	<Rank rank_id="7"  item_id="400006018"     Name="SPAS15_MSC" 			count = "172800" equip = "1" />
+    <Rank rank_id="7"  item_id="803007062"     Name="K400 Alien" 		 	count = "86400" equip = "1" />
+	<Rank rank_id="8"  item_id="100003114"     Name="M401 Elite"       		count = "172800" equip = "1" />
+	<Rank rank_id="8"  item_id="702001017"     Name="FANG_BLASE"    	    count = "86400" equip = "1" />
+	<Rank rank_id="8"  item_id="803007062" 	   Name="K400 Alien"            count = "86400" equip = "1" />
+	<Rank rank_id="9"  item_id="200004136"     Name="OA93 G"    			count = "172800" equip = "1" />
+	<Rank rank_id="9"  item_id="702001017"     Name="FANG_BLASE" 		    count = "86400" equip = "1" />
+	<Rank rank_id="9"  item_id="803007062"     Name="K400 Alien" 			count = "86400" equip = "1" />
+	<Rank rank_id="10"  item_id="300005017"    Name="L115A1_D"              count = "172800" equip = "1" />
+    <Rank rank_id="10"  item_id="803007062"    Name="K400 Alien"            count = "86400" equip = "1" />
+    <Rank rank_id="11"  item_id="400006011"    Name="870MCS_W_D"            count = "172800" equip = "1" />
+    <Rank rank_id="11"  item_id="702001047"    Name="Keris XMAS"            count = "86400" equip = "1" />
+	<Rank rank_id="12"  item_id="601002052"    Name="C. Python TOY" 		count = "86400" equip = "1" />
+	<Rank rank_id="12"  item_id="1001001034"   Name="Bella" 				count = "259200" equip = "1" />
+	<Rank rank_id="13"  item_id="601002011"    Name="Glock18" 				count = "86400" equip = "1" />
+	<Rank rank_id="13"  item_id="1001001011"   Name="Reinforced_D-Fox" 		count = "259200" equip = "1" />
+	<Rank rank_id="14"  item_id="601002011"    Name="Glock18" 				count = "86400" equip = "1" />
+	<Rank rank_id="14"  item_id="1001002014"   Name="Reinforced_Hide" 		count = "259200" equip = "1" />
+	<Rank rank_id="15"  item_id="601002021"    Name="Glock18 D"     		count = "86400" equip = "1" />
+    <Rank rank_id="15"  item_id="1001002051"   Name="Hide Kopassus" 	    count = "259200" equip = "1" />
+	<Rank rank_id="16"  item_id="601002021"    Name="Glock18 D" 			count = "86400" equip = "1" />
+	<Rank rank_id="16"  item_id="1105003001"   Name="Santa HAT"				count = "259200" equip = "1" />
+	<Rank rank_id="17"  item_id="601002026"    Name="HK69"		  		    count = "259200" equip = "1" />
+	<Rank rank_id="17"  item_id="1001002033"   Name="Chou" 					count = "259200" equip = "1" />
+	<Rank rank_id="18"  item_id="601002083"    Name="C. Phyton BEAST" 		count = "259200" equip = "1" />
+    <Rank rank_id="18"  item_id="1001001013"   Name="Reinforced_ViperRed" 	count = "259200" equip = "1" />
+	<Rank rank_id="19"  item_id="601002083"    Name="C. Phyton BEAST"       count = "259200" equip = "1" />
+	<Rank rank_id="19"  item_id="1001002012"   Name="Reinforced_Leopard"    count = "259200" equip = "1" />
+	<Rank rank_id="20"  item_id="601002083"	   Name="C. Phyton BEAST"       count = "86400" equip = "1" />
+	<Rank rank_id="20"  item_id="1001002053"   Name="Hide Soccer"    		count = "259200" equip = "1" />
+	<Rank rank_id="21"  item_id="702001017"    Name="FANG_BLASE" 		    count = "259200" equip = "1" />
+	<Rank rank_id="21"  item_id="1104003015"   Name="Alien Masc" 			count = "259200" equip = "1" />
+	<Rank rank_id="22"  item_id="702001017"    Name="FANG_BLADE"            count = "86400" equip = "1" />
+    <Rank rank_id="22"  item_id="1104003131"   Name="Mask Sheep"            count = "259200" equip = "1" />
+    <Rank rank_id="23"  item_id="702001017"    Name="FANG_BLADE"            count = "86400" equip = "1" />
+	<Rank rank_id="23"  item_id="1104003129"   Name="Mask PBIC2013"         count = "259200" equip = "1" />
+	<Rank rank_id="24"  item_id="702001004"    Name="Kukri"          	    count = "259200" equip = "1" />
+	<Rank rank_id="24"  item_id="1105003018"   Name="Chicken Hat"           count = "259200" equip = "1" />
+	<Rank rank_id="25"  item_id="702001049"    Name="Arabian Sword 2"       count = "259200" equip = "1" />
+	<Rank rank_id="25"  item_id="1105003010"   Name="Cangaceiro Hat"        count = "259200" equip = "1" />
+	<Rank rank_id="26"  item_id="702001009"    Name="M7 G"          	    count = "259200" equip = "1" />
+	<Rank rank_id="26"  item_id="1105003009"   Name="TOY Hat"               count = "259200" equip = "1" />
+	<Rank rank_id="27"  item_id="702001018"    Name="Ballistic Knife"       count = "259200" equip = "1" />
+	<Rank rank_id="27"  item_id="702001009"    Name="Santa Hat"             count = "259200" equip = "1" />
+	<Rank rank_id="28"  item_id="100003063"    Name="AUG A3 Esport"         count = "259200" equip = "1" />
+	<Rank rank_id="28"  item_id="702001009"    Name="M7 G"           		count = "259200" equip = "1" />
+	<Rank rank_id="29"  item_id="300005128"    Name="RangeMaster 338 CAMO"  count = "259200" equip = "1" />
+	<Rank rank_id="29"  item_id="702001012"    Name="Mine Axe D"            count = "259200" equip = "1" />
+	<Rank rank_id="30"  item_id="300005132"    Name="Tactilite T2 G"        count = "259200" equip = "1" />
+	<Rank rank_id="30"  item_id="702001066"    Name="Death Scythe"          count = "86400" equip = "1" />
+	<Rank rank_id="31"  item_id="702001057"    Name="Fang Blade Inferno"    count = "259200" equip = "1" />
+	<Rank rank_id="31"  item_id="1105003010"   Name="Cangaceiro Hat"        count = "259200" equip = "1" />
+	<Rank rank_id="32"  item_id="200004011"    Name="P90_DOTSIGHT"          count = "86400" equip = "1" />
+	<Rank rank_id="32"  item_id="702001011"    Name="Amok Kukri D"          count = "259200" equip = "1" />
+	<Rank rank_id="33"  item_id="1300027003"   Name="Recarregamento Rapido" count = "1" equip = "1" />
+	<Rank rank_id="34"  item_id="1301047000"   Name="AlteraÃ§Ã£o de Nick"   count = "1" equip = "1" />
+	<Rank rank_id="35"  item_id="1300030003"   Name="Bullet Proof Vest"     count = "1" equip = "1" />
+	<Rank rank_id="36"  item_id="1300026003"   Name="Troca RÃ¡pida"         count = "1" equip = "1" />
+	<Rank rank_id="37"  item_id="1300032003"   Name="Hollow Point Plus"     count = "1" equip = "1" />
+	<Rank rank_id="38"  item_id="1300017003"   Name="Receber Drop"          count = "1" equip = "1" />
+	<Rank rank_id="39"  item_id="1301047000"   Name="AlteraÃ§Ã£o de nick"   count = "1" equip = "1" />
+	<Rank rank_id="40"  item_id="1300162007"   Name="O bom perdedor"        count = "1" equip = "1" />
+	<Rank rank_id="41"  item_id="1300080003"   Name="100% ReduÃ§Ã£o de Respawn"  count = "1" equip = "1" />
+	<Rank rank_id="42"  item_id="1300031007"   Name="Bala de Ferro"         count = "1" equip = "1" />
+	<Rank rank_id="43"  item_id="1300034030"   Name="C4 Speed Kit"          count = "1" equip = "1" />
+	<Rank rank_id="44"  item_id="1301047000"   Name="AlteraÃ§Ã£o de nick"   count = "1" equip = "1" />
+	<Rank rank_id="45"  item_id="1001001286"   Name="Viper General"         count = "2592000" equip = "1" />
+	<Rank rank_id="45"  item_id="1001002287"   Name="Hide General"          count = "2592000" equip = "1" />
+	<Rank rank_id="45"  item_id="1103003016"   Name="Beret General"         count = "1" equip = "3" />
+	<Rank rank_id="45"  item_id="1103003016"   Name="Beret General"         count = "1" equip = "3" />
+	<Rank rank_id="46"  item_id="0"     Name="0"           count = "0" equip = "0" />
+	<Rank rank_id="47"  item_id="0"     Name="0"           count = "0" equip = "0" />
+	<Rank rank_id="48"  item_id="0"     Name="0"           count = "0" equip = "0" />
+	<Rank rank_id="49"  item_id="0"     Name="0"           count = "0" equip = "0" />
+	<Rank rank_id="50"  item_id="0"     Name="0"           count = "0" equip = "0" />
+	<Rank rank_id="51"  item_id="0"     Name="0"           count = "0" equip = "0" />
+</list>

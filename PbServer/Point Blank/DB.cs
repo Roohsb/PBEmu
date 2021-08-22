@@ -9,7 +9,7 @@ namespace Game
 {
     public class DB
     {
-   public MySqlConnection connection = new MySqlConnection("server=167.114.222.56;port=3306;username=lorenstu_luciferxx;password=ghBPUWEsODV~;database=lorenstu_forumstudio");
+   public MySqlConnection connection = new MySqlConnection("server=127.0.0.1;port=3306;username=root;dpassword=teste111;database=teste22");
         // create a function to open the connection
         public void OpenConnection()
         {

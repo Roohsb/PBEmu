@@ -20,7 +20,6 @@ using System.Net;
 using System.Threading;
 using System.Linq;
 using Game.Progress;
-using IntelliLock.Licensing;
 using System.Windows;
 using System.Windows.Forms;
 using System.IO;
@@ -30,44 +29,11 @@ namespace Game
     public class Programm
     {
 
-        string KeyLoren = "keyLoren= g8ch?Jodr*d7";
+      
 
 
         public static void Main(string[] args)
         {
-
-           
-                WebClient request = new WebClient();
-                String KeyLoren = "keyLoren= g8ch?Jodr*d7";
-                String NewVersion = request.DownloadString("https://lorenstudio.com/versionfree.txt");
-                String Update = request.DownloadString("https://lorenstudio.com/versionfree.txt");
-                NewVersion = new WebClient().DownloadString("https://lorenstudio.com/versionfree.txt");
-                NewVersion = new WebClient().DownloadString("https://lorenstudio.com/versionfree.txt");
-                if (Update.Contains(KeyLoren))
-                {
-
-
-                }
-                else
-                {
-
-                    var result = System.Windows.Forms.MessageBox.Show("Você está tentando utilizar um arquivo sem licença, que tal comprar uma? :)", "", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-                    if (result == DialogResult.Yes)
-                    {
-
-                        Process.Start("http://community.lorenstudio.com/");
-
-                    }
-                    if (result == DialogResult.No)
-                    {
-
-                        Console.Clear();
-                        Environment.Exit(0);
-
-                    }
-                
-            }
-
             try
             {
               
@@ -75,9 +41,7 @@ namespace Game
                 Console.Title = "[PBEMU] 1.0 System...";
                     Console.WindowWidth = 100;
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    string srvtxt = "[1] FREEMODE \n" +
-                     "[2] PREMIUMMODE \n" +
-                     "[3] DEVMODE \n" +
+                    string srvtxt = "[1] LIGARSERVER\n" +
 
                         "[Source] Diga seu código de serviço: ";
                     Console.WriteLine(srvtxt);
@@ -92,20 +56,12 @@ namespace Game
                     if (senha.Equals(NextModel.Senha))
                     {
                         Console.Clear();
-                    //Process.Start("http://lorenstudio.com");
                     LorenstudioSettings.Load();
-                         LicenseSystem.Load();
                         ConfigLeitura.Loader();
-                    string licenseFile = @"lorenstudio.license";
-
-                    // To ensure SDK method calls doesn't block/delay the control flow the SDK method LoadLicense(...) should be run in asynchronous context (new Action()..) as well
+               
                     new Action(() =>
                     {
-
-                        EvaluationMonitor.LoadLicense(File.ReadAllBytes(licenseFile));
-                        EvaluationMonitor.LicenseCheckFinished += () =>
                         {
-                           // System.Windows.Forms.MessageBox.Show("Licença encontrada ^^");
                             OpenDepuracao();
 
                        
@@ -173,11 +129,8 @@ namespace Game
                         Logger.Error("[System] Senha inválida, esqueci sua senha? S / N");
                         string esqueceu = Console.ReadLine();
                         if (esqueceu != null && esqueceu.ToLower() == "s")
-                            Process.Start("http://lorenstudio.com");
-                        else
-                        {
-                        LicenseSystem.UpdateClosePB();
-                    }
+                            Process.Start("https://github.com/Roohsb");
+                       
                     }
 
             }
@@ -189,51 +142,6 @@ namespace Game
                 Process.GetCurrentProcess().WaitForExit();
 
         }
-
-        public void CheckExpirationDateLock()
-        {
-            bool lock_enabled = EvaluationMonitor.CurrentLicense.ExpirationDate_Enabled;
-            System.DateTime expiration_date = EvaluationMonitor.CurrentLicense.ExpirationDate;
-        }
-
-        public void InvalidateLicense()
-        {
-            string confirmation_code = License_DeActivator.DeactivateLicense();
-        }
-
-        public byte[] GetLicense()
-        {
-            return EvaluationMonitor.GetCurrentLicenseAsByteArray();
-        }
-
-      
-    public void ReadAdditonalLicenseInformation()
-        {
-          
-            if (EvaluationMonitor.CurrentLicense.LicenseStatus == LicenseStatus.Licensed)
-            {
-             
-                for (int i = 0; i < EvaluationMonitor.CurrentLicense.LicenseInformation.Count; i++)
-                {
-                    string key = EvaluationMonitor.CurrentLicense.LicenseInformation.GetKey(i).ToString();
-                    string value = EvaluationMonitor.CurrentLicense.LicenseInformation.GetByIndex(i).ToString();
-                }
-            }
-        }
-        public bool IsValidLicenseAvailable()
-        {
-            return (EvaluationMonitor.CurrentLicense.LicenseStatus == LicenseStatus.Licensed);
-        }
-
-        public void CheckExecutionsLock()
-        {
-            bool lock_enabled = EvaluationMonitor.CurrentLicense.Executions_Enabled;
-            int max_executions = EvaluationMonitor.CurrentLicense.Executions;
-            int current_executions = EvaluationMonitor.CurrentLicense.Executions_Current;
-        }
-
-
-
         public static void ShopLoader()
         {
             if (Settings.BlackFriday)
@@ -246,7 +154,7 @@ namespace Game
         }
         public static void AnimationGame()
         {
-                    char[] anims = new char[12] { 'L', 'O', 'R', 'E', 'N', ' ', 'S', 'T', 'U', 'D', 'I', 'O'};
+                    char[] anims = new char[4] { 'R', 'O', 'O', 'H'};
                     int animsIndex = 0;
                     for (int i = 0; i < anims.Length; i++)
                     {
@@ -428,7 +336,7 @@ namespace Game
                             }
                         case ".close":
                             {
-                                LicenseSystem.UpdateClosePB();
+                                Environment.Exit(0);
                                 break;
                             }
                         //    case ".clear":

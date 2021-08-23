@@ -9,7 +9,6 @@ using System.Diagnostics;
 using System.Net;
 using System.Threading;
 using System.Linq;
-using IntelliLock.Licensing;
 using System.Windows;
 using System.Windows.Forms;
 using System.IO;
@@ -19,13 +18,9 @@ namespace Battle
     public class Program
     {
 
-        string KeyLoren = "keyLoren= g8ch?Jodr*d7";
-
         protected static void Main(string[] args)
         {
-            Verific();
             LicenseVerif();
-            // ConfigLeitura.Loader();
             Console.WindowWidth = 100;
             CheckIntegry();
             Config.Load();
@@ -49,7 +44,7 @@ namespace Battle
         }
         public static void AnimationBattle()
         {
-            char[] anims = new char[12] { 'L', 'O', 'R', 'E', 'N', ' ', 'S', 'T', 'U', 'D', 'I', 'O' };
+            char[] anims = new char[4] { 'R', 'O', 'O', 'H' };
             int animsIndex = 0;
             for (int i = 0; i < anims.Length; i++)
             {
@@ -71,15 +66,7 @@ namespace Battle
 
         public static void LicenseVerif()
         {
-            string licenseFile = @"lorenstudio.license";
-
-              new Action(() =>
-            {
-
-                EvaluationMonitor.LoadLicense(File.ReadAllBytes(licenseFile));
-                EvaluationMonitor.LicenseCheckFinished += () =>
-                {
-                    MessageBox.Show("Licença encontrada ^^");
+            
                     Logger.Info($"╔════════════════ L.S System ══════════════════╗");
                     Logger.Warning(" [UDP System] IP: " + Config.hosIp + ":" + Config.hosPort + "");
                     Logger.Warning(" [UDP System] Versões: " + Config.udpVersion + " -> " + Config.ServerVersion + "");
@@ -91,45 +78,7 @@ namespace Battle
                     BattleManager.Init();
                     GetPrestart.Remove();
                     Logger.Info("╚═══════════════════════════════════════════════╝");
-                };
-
-            }).BeginInvoke(null, null);
-
-        }
-
-        public static void Verific()
-        {
-            WebClient request = new WebClient();
-            String KeyLoren = "keyLoren= g8ch?Jodr*d7";
-            String NewVersion = request.DownloadString("https://lorenstudio.com/versionfree.txt");
-            String Update = request.DownloadString("https://lorenstudio.com/versionfree.txt");
-            NewVersion = new WebClient().DownloadString("https://lorenstudio.com/versionfree.txt");
-            NewVersion = new WebClient().DownloadString("https://lorenstudio.com/versionfree.txt");
-            if (Update.Contains(KeyLoren))
-            {
-
-
-            }
-            else
-            {
-
-                var result = MessageBox.Show("Você está tentando utilizar um arquivo sem licença, que tal comprar uma? :)", "", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-                if (result == DialogResult.Yes)
-                {
-
-                    Process.Start("http://community.lorenstudio.com/");
-
-                }
-                if (result == DialogResult.No)
-                {
-
-                    Console.Clear();
-                    Environment.Exit(0);
-
                 }
 
-            }
-
-        }
     }
 }

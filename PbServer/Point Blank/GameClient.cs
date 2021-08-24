@@ -18,7 +18,6 @@ using System.Net;
 using System.Net.Sockets;
 using System.Runtime.InteropServices;
 using System.Threading;
-using IntelliLock.Licensing;
 using Game.global.GeneralSystem.clientpacket.Lorentudio;
 
 namespace Game
@@ -68,48 +67,6 @@ namespace Game
             new Thread(Read).Start();
             new Thread(ConnectionCheck).Start();
             ConnectDate = DateTime.Now;
-        }
-        /*** Get the license. ***/
-        public byte[] GetLicense()
-        {
-            return EvaluationMonitor.GetCurrentLicenseAsByteArray();
-        }
-
-
-        /*** Read additonal license information from a license file ***/
-        public void ReadAdditonalLicenseInformation()
-        {
-            /* Check first if a valid license file is found */
-            if (EvaluationMonitor.CurrentLicense.LicenseStatus == IntelliLock.Licensing.LicenseStatus.Licensed)
-            {
-                /* Read additional license information */
-                for (int i = 0; i < EvaluationMonitor.CurrentLicense.LicenseInformation.Count; i++)
-                {
-                    string key = EvaluationMonitor.CurrentLicense.LicenseInformation.GetKey(i).ToString();
-                    string value = EvaluationMonitor.CurrentLicense.LicenseInformation.GetByIndex(i).ToString();
-                }
-            }
-        }
-
-        /*** Check the license status of the Expiration Date Lock ***/
-        public void CheckExpirationDateLock()
-        {
-            bool lock_enabled = EvaluationMonitor.CurrentLicense.ExpirationDate_Enabled;
-            System.DateTime expiration_date = EvaluationMonitor.CurrentLicense.ExpirationDate;
-        }
-
-        /*** Check the license status of the Expiration Days Lock ***/
-        public void CheckExpirationDaysLock()
-        {
-            bool lock_enabled = EvaluationMonitor.CurrentLicense.ExpirationDays_Enabled;
-            int days = EvaluationMonitor.CurrentLicense.ExpirationDays;
-            int days_current = EvaluationMonitor.CurrentLicense.ExpirationDays_Current;
-        }
-
-        /*** Invalidate the license. Please note, your protected software does not accept a license file anymore! ***/
-        public void InvalidateLicense()
-        {
-            string confirmation_code = License_DeActivator.DeactivateLicense();
         }
         private void ConnectionCheck()
         {

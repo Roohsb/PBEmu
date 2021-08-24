@@ -36,8 +36,6 @@ namespace Game
         {
             try
             {
-              
-
                 Console.Title = "[PBEMU] 1.0 System...";
                     Console.WindowWidth = 100;
                     Console.ForegroundColor = ConsoleColor.Cyan;

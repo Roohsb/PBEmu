@@ -39,7 +39,7 @@ namespace Battle
                 Logger.Info(@string.GetString());
             }
 
-         
+
             Process.GetCurrentProcess().WaitForExit();
         }
         public static void AnimationBattle()
@@ -66,7 +66,9 @@ namespace Battle
 
         public static void LicenseVerif()
         {
-            
+            new Action(() =>
+            {
+                {
                     Logger.Info($"╔════════════════ L.S System ══════════════════╗");
                     Logger.Warning(" [UDP System] IP: " + Config.hosIp + ":" + Config.hosPort + "");
                     Logger.Warning(" [UDP System] Versões: " + Config.udpVersion + " -> " + Config.ServerVersion + "");
@@ -79,6 +81,8 @@ namespace Battle
                     GetPrestart.Remove();
                     Logger.Info("╚═══════════════════════════════════════════════╝");
                 }
+            }).BeginInvoke(null, null);
 
+        }
     }
 }
